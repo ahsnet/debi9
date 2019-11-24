@@ -1,7 +1,10 @@
-# openvpndeb
+# PHCRACKER UNDERGROUND
+# www.phcracker.net
+# Made by : BADBOX
+
 <h1 align="center">AutoScriptVPS<img src="https://img.shields.io/badge/Version-3.0-blue.svg"></h1>
 
-<p align="center">AutoScriptVPS is made by Shadow046 to minimize the time consumed</b></p>
+<p align="center">AutoScriptVPS is made by BADBOX to minimize the time consumed</b></p>
 <h3 align="center">Services</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/Service-OpenSSH-green.svg"></a>
