@@ -92,7 +92,7 @@ echo "- Type service nginx restart on putty/juicessh" >> /var/tmp/solutions.txt
 fi
 
 echo -e ""
-echo -e " == BonvScript == " | lolcat -a
+echo -e " == BADBOX == " | lolcat -a
 echo " "
 echo "-------------------------------------------"
 echo "Automatic VPS Diagnostics"
