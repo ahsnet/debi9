@@ -3,7 +3,7 @@
 clear
 
 echo -e ""
-echo -e " == Shadow046 == "
+echo -e " == BADBOX == "
 echo -e " Create Random Users"
 read -p "  No. of Users to be created: " No_User
 read -p "  Active Days of Users: " Days
