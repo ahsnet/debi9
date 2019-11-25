@@ -5,18 +5,18 @@
 /* invite_code_master is the Invite Code that the VIP Users will be using on the site */
 /* free_user_exp is the active days for Free Users */
 /* vip_user_exp is the active days for VIP Users */
-$site_name        = "shadow046";
+$site_name        = "PHCracker Underground";
 $site_description = "Provider of Quality SSH, SSL, VPN Accounts";
 $site_template    = "lumen";
-$invite_code_master = "shadow046";
+$invite_code_master = "BADBOX";
 $free_user_exp = "3";
 $vip_user_exp = "15";
 
 
 /* Server Data */
 /* Format: Server_Name, IP_Address, Root_Pass, User_Type */
-/* Example_1: 1=>array(1=>"shadow046 Server 1","123.456.789","shadow046","VIP"), */
-/* Example_2: 2=>array(1=>"shadow046 Server 2","123.456.789","shadow046","Free"), */
+/* Example_1: 1=>array(1=>"BADBOX Server 1","123.456.789","BADBOX","VIP"), */
+/* Example_2: 2=>array(1=>"BADBOX Server 2","123.456.789","BADBOX","Free"), */
 
 
 $server_lists_array=array(
