@@ -2,19 +2,19 @@
 
 
 /* Site Data */
-$site_name        = "Shadow046";
+$site_name        = "PHCracker Underground";
 $site_description = "Provider of Quality SSH, SSL, VPN Accounts";
 $site_template    = "lumen"; // (flatly, darkly, sketchy, lumen, materia)
 
 
 /* Server Data */
 /* Format: Server_Name, IP_Address, Root_Pass, Account_Validity */
-/* Example: 1=>array(1=>"Shadow046 Server 1","123.456.789","Shadow046","5"), */
+/* Example: 1=>array(1=>"BADBOX Server 1","123.456.789","BADBOX","5"), */
 
 $server_lists_array=array(
-			1=>array(1=>"Sample 1","123.123.123.123","Shadow046","5"),
-			2=>array(1=>"Sample 2","123.123.123.123","Shadow046","5"),
-			3=>array(1=>"Sample 3","123.123.123.123","Shadow046","5"),
+			1=>array(1=>"Sample 1","123.123.123.123","BADBOX","5"),
+			2=>array(1=>"Sample 2","123.123.123.123","BADBOX","5"),
+			3=>array(1=>"Sample 3","123.123.123.123","BADBOX","5"),
 	);			
 
 
