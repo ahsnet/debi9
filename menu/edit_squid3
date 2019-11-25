@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script by : _Dreyannz_
+# Script by : BADBOX
 rm -f /root/opensshport
 rm -f /root/dropbearport
 rm -f /root/stunnel4port
@@ -34,7 +34,7 @@ END
 cd
 clear
 echo -e ""
-echo -e " == Shadow046 == "
+echo -e " == BADBOX == "
 echo -e " Squid3 Ports: $squidport"
 echo -e ""
 read -p " Which port should be changed?: " Port
@@ -76,7 +76,7 @@ if [ $? -eq 0 ]; then
 	squidport="$(cat /etc/privoxy/config | grep -i listen-address | awk '{print $2}')"
 	clear
 	echo -e ""
-echo -e " == Shadow046 == "
+echo -e " == BADBOX == "
   echo -e " Successfully Reconfigured"
 	echo -e " your Squid Port is now: $squidport"
 	echo -e ""
