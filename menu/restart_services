@@ -2,7 +2,7 @@
 
 clear
 echo -e ""
-echo -e " == Shadow046 == "
+echo -e " == BADBOX == "
 echo -e ""
 echo -e "   [1] Restart All Services"
 echo -e "   [2] Restart OpenSSH"
@@ -87,7 +87,7 @@ case $Restart in
 		clear
 		service nginx restart
 		echo -e ""
-    echo -e " == Shadow046 == "
+    echo -e " == BADBOX == "
     echo -e ""
 		echo -e " Nginx Service Restarted"
 		echo -e  ""
