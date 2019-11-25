@@ -1,9 +1,9 @@
 #!/bin/bash
 clear
 
-echo -e "PHCRACKER UNDERGROUND"
-echo -e " == www.phcracker.net == "
-echo -e "Script by: BADBOX"
+echo -e "--------------- Welcome To Phcracker Underground ---------------"
+echo -e " =================== www.phcracker.net ======================= "
+echo -e "---------------------- by Badbox -----------------------"
 echo -e "* menu      : Displays a list of available commands"
 echo -e " Commands:"
 echo -e "  accounts"
